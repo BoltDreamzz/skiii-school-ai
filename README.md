@@ -1,4 +1,12 @@
-![SchoolAI by Skiii](https://via.placeholder.com/800x200?text=SchoolAI+by+Skiii)
+
+
+
+
+
+
+
+
+
 
 # Skiii School AI
 
