@@ -1,16 +1,10 @@
-
-
-
-
-
-
-
-
+<img width="3984" height="1969" alt="image" src="https://github.com/user-attachments/assets/312c077b-758f-4aa5-9148-ab38a3b13aee" />
 
 
 # Skiii School AI
 
-An ultra-lightweight AI assistant built by Dreamzzskiii for computer science students. It helps you understand concepts, debug code, review algorithms, and get quick explanations without the fluff — just a simple script you can run and use immediately.
+An ultra-lightweight AI assistant built by a student of COOU for computer science students. 
+This project was developed by this student even before he had fully become a student of the school. The AI is said to help you understand concepts, debug code, review algorithms, and get quick explanations without the fluff — just a simple script you can run and use immediately.
 
 
 ## Features
